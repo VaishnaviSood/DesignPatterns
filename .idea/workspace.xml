@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2eb0b767-5526-4f01-bc33-35519832456c" name="Changes" comment="Creational Patterns">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/AbstractFactory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/GUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/MacButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/MacCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/MacGUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/WinButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/WinCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/WinGUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/Builder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/src/Alto800CarDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/src/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/src/CarManual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Creational Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Prototype/Prototype.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Prototype/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Prototype/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Prototype/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Prototype/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Singleton/Singleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Singleton/src/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Creational Patterns/Singleton/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design Pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural Patterns/Adaptor/Adaptor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural Patterns/Structural Patterns.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2yS1AjmE4Yiccu4hmGTHBXd2lky" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2eb0b767-5526-4f01-bc33-35519832456c" name="Changes" comment="" />
+      <created>1749813020761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749813020761</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creational Patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creational Patterns" />
+  </component>
+</project>
