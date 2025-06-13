@@ -5,45 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2eb0b767-5526-4f01-bc33-35519832456c" name="Changes" comment="Creational Patterns">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/AbstractFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/CheckBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/GUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/MacButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/MacCheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/MacGUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/WinButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/WinCheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/AbstractFactory/src/WinGUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/Builder.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/src/Alto800CarDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/src/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/src/CarManual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Builder/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Creational Patterns.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Prototype/Prototype.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Prototype/src/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Prototype/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Prototype/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Prototype/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Singleton/Singleton.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Singleton/src/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational Patterns/Singleton/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural Patterns/Adaptor/Adaptor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structural Patterns/Structural Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural Patterns/Adaptor/src/Adaptor/SquarePegAdaptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural Patterns/Adaptor/src/Client/RoundHole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural Patterns/Adaptor/src/Client/RoundPeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural Patterns/Adaptor/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structural Patterns/Adaptor/src/Service/SquarePeg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -58,12 +40,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-78a6f59c" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,6 +66,15 @@
       <option name="presentableId" value="Default" />
       <updated>1749813020761</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creational Patterns">
+      <option name="closed" value="true" />
+      <created>1749813473388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749813473388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
